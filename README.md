@@ -13,7 +13,7 @@ Hey, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
 
 - 🌱 I’m currently improving my knowledge on **Java Spring Boot**
 
-- 🔭 I'm looking forward to learn **Data Science**
+- 🔭 I'm currently learning **Data Science** and **Artificial Inteligence**
 
 - ⚡ Fun fact **I am funny**
 

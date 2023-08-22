@@ -42,8 +42,8 @@ Hey, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
 
 ### GitHub Streak
 <div style="display:flex;flex-direction=row;justify-content=space-between;">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=rafinhalq&show_icons=true&theme=nightowl&count_private=true" />   
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafinhalq&show_icons=true&theme=nightowl&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafinhalq&show_icons=true&theme=nightowl&count_private=true" />   
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafinhalq&show_icons=true&theme=nightowl&count_private=true" />
 </div>
 
 <div align="center">

@@ -1,4 +1,4 @@
-Hey, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) my name is Rafael Luz
+![image](https://github.com/rafinhaLQ/rafinhaLQ/assets/87668199/6be6b37a-412a-495f-9d47-0cfcc0e5018d)Hey, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) my name is Rafael Luz
 =========================================================================================================================================
 
 <div align="center">
@@ -11,11 +11,15 @@ Hey, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
 
 - 👨‍💻 I’m currently working on **Compass.UOL**
 
-- 🌱 I’m currently improving my knowledge on **Java Spring Boot**
+- 📖 **Computer Science Undergraduate**
 
-- 🔭 I'm currently learning **Data Science** and **Artificial Inteligence**
+- 🌱 I’m currently improving my knowledge on **Java Spring Boot** and **Reactive Programming**
 
-- ⚡ Fun fact **I am funny**
+- 🔭 I'm looking forward to learn **Machine Learning** and **Artificial Inteligence**
+
+- 💬 Ask me about **Java Patterns** and **Software Architecture and Design**
+
+- 🤓 **I think am funny**, **I like gaming**, **mangas** and **lifting weights**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -36,8 +40,6 @@ Hey, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
 <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-<a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>
 </p>
 
 ### GitHub Streak
@@ -47,6 +49,8 @@ Hey, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
 </div>
 
 <div align="center">
+<br>
+<br>
 
 ![luffy](https://media.tenor.com/bU8W2-lHZhYAAAAj/luffy.gif)
 

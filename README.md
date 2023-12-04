@@ -9,13 +9,13 @@ Hey, 👋 I'm Rafael Luz
 
 <img align="right" alt="coding" width="310" src="https://64.media.tumblr.com/d9ba01e37d6d828041b316d1ab716146/e45d5ed82ed0b527-6f/s640x960/7c3a61067f54e3bd7134b8f86494589cf60134be.gif">
 
-- 👨‍💻 I’m currently working on **Compass.UOL**
+- 👨‍💻 I’m currently working as a **Backend Developer** on **Compass.UOL**
 
 - 📖 **Computer Science Undergraduate**
 
-- 🌱 I’m currently improving my knowledge on **Java Spring Boot** and **Reactive Programming**
+- 🌱 I’m constantly improving my knowledge on **Java Spring Boot**
 
-- 🔭 I'm looking forward to learn **Machine Learning** and **Artificial Inteligence**
+- 🔭 I'm presently studying **Machine Learning** and **Artificial Inteligence**
 
 - 💬 Ask me about **Java Patterns** and **Software Architecture and Design**
 
@@ -44,8 +44,8 @@ Hey, 👋 I'm Rafael Luz
 
 ### GitHub Streak
 <div style="display:flex;flex-direction=row;justify-content=space-between;">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=rafinhalq&show_icons=true&theme=nightowl&count_private=true" />   
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafinhalq&show_icons=true&theme=nightowl&count_private=true" />
+  <img height="250em" src="https://github-readme-stats.vercel.app/api?username=rafinhalq&show_icons=true&theme=nightowl&count_private=true" />   
+  <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafinhalq&show_icons=true&theme=nightowl&count_private=true" />
 </div>
 
 <div align="center">

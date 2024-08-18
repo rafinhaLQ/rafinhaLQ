@@ -12,7 +12,7 @@
     </div>
     <div style="text-align: center;">
 	<ul>
-        	<li>👨‍💻 I’m currently working as a <b>Backend Developer</b> on <b>Compass.UOL</b></li>
+        	<li>👨‍💻 I’m currently working as a <b>Backend Developer</b> on <b>NTT Data</b></li>
         	<li>📖 <b>Computer Science Undergraduate</b></li>
         	<li>🌱 I’m constantly improving my knowledge on <b>Java</b></li>
         	<li>🔭 I'm presently studying <b>Machine Learning</b> and <b>Artificial Inteligence</b></li>

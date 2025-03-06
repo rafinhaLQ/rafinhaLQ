@@ -8,7 +8,7 @@
 <div style="display: flex; flex-direction: column; align-items: center;">
     <div style="display: flex; justify-content: center;">
         <img align="right" alt="coding" width="310" src="https://64.media.tumblr.com/d9ba01e37d6d828041b316d1ab716146/e45d5ed82ed0b527-6f/s640x960/7c3a61067f54e3bd7134b8f86494589cf60134be.gif">
-        <img src="https://readme-typing-svg.herokuapp.com/?color=DB3FBE&size=35&width=500&lines=Rafael+Luz;BackEnd+Java+Developer">
+        <img src="https://readme-typing-svg.herokuapp.com/?color=DB3FBE&size=35&width=500&lines=Rafael+Luz;Back+End+Java+Developer">
     </div>
     <div style="text-align: center;">
 	<ul>
@@ -42,12 +42,6 @@
 <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
 </p>
-
-### GitHub Streak
-<div align="center" style="display:flex;flex-direction=row;justify-content=space-between;">
-  <img height="210em" src="https://github-readme-stats.vercel.app/api?username=rafinhalq&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true" />   
-  <img height="210em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafinhalq&show_icons=true&theme=nightowl&count_private=true" />
-</div>
 
 <div align="center">
 <br>

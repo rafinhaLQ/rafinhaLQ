@@ -13,11 +13,11 @@
     <div style="text-align: center;">
 	<ul>
         	<li>👨‍💻 I’m currently working as a <b>Backend Developer</b> on <b>NTT Data</b></li>
-        	<li>📖 <b>Computer Science Undergraduate</b></li>
-        	<li>🌱 I’m constantly improving my knowledge on <b>Java</b></li>
-        	<li>🔭 I'm presently studying <b>Machine Learning</b> and <b>Artificial Inteligence</b></li>
+        	<li>📖 <b>Bachelor’s Degree in Computer Science</b></li>
+        	<li>🌱 I’m constantly improving my knowledge</li>
+        	<!--<li>🔭 I'm presently studying <b>Machine Learning</b> and <b>Artificial Inteligence</b></li>-->
         	<li>💬 Ask me about <b>Java Patterns</b> and <b>Software Architecture and Design</b></li>
-        	<li>🤓 <b>I think am funny</b>, <b>I like gaming</b>,<b>mangas</b> and <b>lifting weights</b></li>
+        	<li>🤓 <b>I think am funny</b>, <b>I like gaming</b>, <b>mangas</b> and <b>lifting weights</b></li>
 	</ul>
     </div>
 </div>
